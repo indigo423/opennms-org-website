@@ -1,0 +1,8 @@
+email: ronny.trommer@no42.org
+access:
+  admin:
+    login: true
+    super: true
+fullname: 'Ronny Trommer'
+title: null
+hashed_password: $2y$10$TqUJynlUbpzZKl0LBDZk4.gC4A8HRT60QDOl5QuoTyp.bfnAO6eRG

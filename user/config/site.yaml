@@ -1,0 +1,57 @@
+title: OpenNMS User Conference
+author:
+  name: Ronny Trommer                      # Default author name
+  email: 'ronny@opennms.org'               # Default author email
+  copyright: "OpenNMS Foundation Europe e.V. 2016"
+contact:
+  address:
+    - line: "Conference Board Contact"
+    - line: "ofe-board@lists.opennms.eu"
+    - line: "Hessen, Germany"
+    - line: "Earth, Milkyway"
+social:
+  - url: 'https://twitter.com/hashtag/OUCE2015'
+    icon: 'twitter'
+  - url: 'https://plus.google.com/101054696280784935711'
+    icon: 'google-plus'
+  - url: 'http://planet.opennms.org'
+    icon: 'rss'
+othermenu:
+  - text: "Imprint"
+    url: "imprint"
+  - text: "Code of Conduct"
+    url: "code-of-conduct"
+quicklinks:
+  - text: "Home"
+    url: "base_url:home"
+  - text: "Venue"
+    url: "base_url:venue"
+  - text: "CfP"
+    url: "base_url:cfp"
+  - text: "Schedule"
+    url: "base_url:schedule"
+  - text: "Recordings"
+    url: "base_url:recordings"
+  - text: "FAQ"
+    url: "base_url:faq"
+taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
+blog:
+  route: '/blog'                            # Route to blog
+summary:
+  size: 300                                 # Maximum length of summary (characters)
+
+header_options:
+  arrows: 'true'                            # Create Next and previous button
+  autoslide: 'true'                         # Auto slideshow mode
+  autoslideHoverStop: 'true'                # Pause auto slideshow mode on mouseover
+  interval: '5000'                          # The interval between each slide (Interval in millisecond)
+  loop: 'true'                              # Infinite slideshow
+  transition : zoom                         # Set the animation kind (fade/slide/page/zoom)
+  itemsForSlide: '0'                        # Wrap each 'n' item
+  touch: 'true'                             # Set a native slide for touch device
+  swipe : 'true'                            # Enable swipe for touch device
+
+footer:
+    description: "This is the website for the annually OpenNMS User Conference in Europe."
+    contact_title: "Contact Info"
+    links_title: "Quick Links"
