@@ -1,0 +1,2 @@
+enabled: true               # global enable/disable the entire plugin
+trackingId: 'UA-80485373-2' # GA tracking ID
