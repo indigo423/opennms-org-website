@@ -12,6 +12,7 @@ content:
         custom:
             - _showcase
             - _highlights
+            - _tickets
             - _schedule
             - _bottom
 ---
