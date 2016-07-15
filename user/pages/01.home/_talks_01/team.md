@@ -24,6 +24,6 @@ members:
       info: "I enjoy most everything. I do IT, 4x4 and offroad expeditions, photography, food and nutrition, history of cultures and travel... nothing is out of bounds."
 ---
 
-# Speaker and Talks
+# Speaker
 
 You want to be a speaker at OUCE 2016? Feel free to join the [Call for Paper](http://cfp.opennms.eu/en/ouce2016/cfp/session/new) which is open until <font color="red">1. August 2016</font>. We are happy to give you a spot on this page, please provide a short text about you and some links to your blog or social media places and get also listed in our list of [registered talks](http://cfp.opennms.eu/en/ouce2016/public/events).
