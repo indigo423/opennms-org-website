@@ -9,18 +9,46 @@
             <hr>
             <p>{{ member.info }}</p>
             <ul class="social-icons">
+                {%  if member.social_twitter is not empty  %}
                 <li>
-                    <a href="{{ member.social_twitter }}">
+                    <a href="https://twitter.com/{{ member.social_twitter }}">
                         <i class="fa fa-twitter"></i></a>
                 </li>
+                {% endif %}
+
+                {%  if member.social_facebook is not empty  %}
                 <li>
                     <a href="{{ member.social_facebook }}">
                         <i class="fa fa-facebook"></i></a>
                 </li>
+                {% endif %}
+
+                {%  if member.social_feed is not empty  %}
                 <li>
                     <a href="{{ member.social_feed }}">
                         <i class="fa fa-rss"></i></a>
                 </li>
+                {% endif %}
+
+                {%  if member.social_email is not empty  %}
+                <li>
+                    <a href="mailto:{{ member.social_email }}">
+                        <i class="fa fa-at"></i></a>
+                </li>
+                {% endif %}
+
+                {%  if member.social_linkedin is not empty  %}
+                <li>
+                    <a href="{{ member.social_linkedin }}">
+                        <i class="fa fa-linkedin"></i></a>
+                </li>
+                {% endif %}
+                {%  if member.social_blog is not empty  %}
+                    <li>
+                        <a href="{{ member.social_blog }}">
+                            <i class="fa fa-external-link"></i></a>
+                    </li>
+                {% endif %}
             </ul>
         </div>
         {% endfor %}

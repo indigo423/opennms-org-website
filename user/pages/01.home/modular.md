@@ -13,6 +13,7 @@ content:
             - _showcase
             - _highlights
             - _tickets
+            - _talks
             - _schedule
             - _bottom
 ---
