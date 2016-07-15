@@ -3,18 +3,18 @@ title: Speakers
 members:
     - name: Alexander Finger
       image:
-      title:
+      title: Senior Business Development Manager at Swisscom
       info: "Alexander Finger is member of the OGP, the Order of the green Polo, IT professional and PMI certified project management professional. He is responsible for much of the design and testing of many of the carrier grade features of OpenNMS. Last but not least Alexander Finger worked with Ronny Trommer and Klaus Thielking-Riechert on the German-language book OpenNMS: Netzwerkmanagement mit freier Software."
       social_twitter: "alexanderfinger"
     - name: Duy Hai Doan
       image:
-      title:
-      info: "DuyHai DOAN is an Apache Cassandra Evangelist at DataStax. He spends his time between technical presentations/meetups on Cassandra, coding on open source projects like Achilles or Apache Zeppelin to support the community and helping all companies using Cassandra to make their project successful. Previously he was working as a freelance Java/Cassandra consultant."
+      title: Apache Cassandra Evangelist at DataStax
+      info: "He spends his time between technical presentations/meetups on Cassandra, coding on open source projects like Achilles or Apache Zeppelin to support the community and helping all companies using Cassandra to make their project successful. Previously he was working as a freelance Java/Cassandra consultant."
       social_twitter: "doanduyhai"
       social_linkedin: "https://fr.linkedin.com/in/duyhai-doan-8482242"
     - name: Jeff Gehlbach
       image:
-      title:
+      title: Director of Applied Innovation at The OpenNMS Group
       info: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
       social_twitter: "jeffgdotorg"
       social_linkedin: "https://www.linkedin.com/in/jgehlbach"
@@ -24,7 +24,7 @@ members:
       info: "I enjoy most everything. I do IT, 4x4 and offroad expeditions, photography, food and nutrition, history of cultures and travel... nothing is out of bounds."
     - name: Ronny Trommer
       image:
-      title:
+      title: Documentarian and OpenNMS Evangelist who lives in Europe
       info: "Ronny Trommer is an elected OGP member and wrote with his two friends Alexander Finger and Klaus Thielking-Riechert the German book about OpenNMS. He mentored in Google Summer of Code 2011, 2012 and 2013 for the OpenNMS project."
       social_twitter: "indigo423"
       social_linkedin: "https://www.linkedin.com/in/ronnytrommer"
@@ -37,7 +37,7 @@ members:
       social_blog: "http://www.adventuresinoss.com/"
     - name: "Uwe Bergmann"
       image:
-      title:
+      title: CEO, NETHINKS GmbH
       info: "Uwe Bergmann studied applied informatics at Hochschule Fulda University of Applied Sciences with focus on telecommunications. Since 2003 he is CEO at NETHINKS GmbH. With his company he supported the OpenNMS User Conference for the last four years. His main focus is on optimization of IT processes and IT infrastructure in companies using OpenNMS."
       social_twitter: "NETHINKS"
       social_blog: "https://www.nethinks.com"
