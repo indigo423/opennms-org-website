@@ -6,6 +6,11 @@ members:
       title: Senior Business Development Manager at Swisscom
       info: "Alexander Finger is member of the OGP, the Order of the green Polo, IT professional and PMI certified project management professional. He is responsible for much of the design and testing of many of the carrier grade features of OpenNMS. Last but not least Alexander Finger worked with Ronny Trommer and Klaus Thielking-Riechert on the German-language book OpenNMS: Netzwerkmanagement mit freier Software."
       social_twitter: "alexanderfinger"
+    - name: Benjamin Reed
+      image:
+      title: CIO at The OpenNMS Group
+      info: "Ben has been involved with open-source software for over 20 years, and has had his hands in the OpenNMS codebase nearly since its inception. He is currently CIO of The OpenNMS Group but wears many hats, spending the majority of his time in software engineering."
+      social_twitter: "RangerRick"
     - name: Duy Hai Doan
       image:
       title: Apache Cassandra Evangelist at DataStax
@@ -18,10 +23,6 @@ members:
       info: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
       social_twitter: "jeffgdotorg"
       social_linkedin: "https://www.linkedin.com/in/jgehlbach"
-    - name: Ken Eshelby
-      image:
-      title:
-      info: "I enjoy most everything. I do IT, 4x4 and offroad expeditions, photography, food and nutrition, history of cultures and travel... nothing is out of bounds."
 ---
 
 # Speaker

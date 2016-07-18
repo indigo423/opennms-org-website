@@ -13,9 +13,9 @@ content:
             - _showcase
             - _highlights
             - _tickets
-            - _talks_01
-            - _talks_02
-            - _talks_03
+            - _speaker_01
+            - _speaker_02
+            - _speaker_03
             - _schedule
             - _bottom
 ---
