@@ -1,6 +1,12 @@
 ---
 title: Speakers
 members:
+    - name: Jeff Gehlbach
+      image:
+      title: Director of Applied Innovation at The OpenNMS Group
+      info: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
+      social_twitter: "jeffgdotorg"
+      social_linkedin: "https://www.linkedin.com/in/jgehlbach"
     - name: Ken Eshelby
       image:
       title:
@@ -19,10 +25,4 @@ members:
       social_twitter: "indigo423"
       social_linkedin: "https://www.linkedin.com/in/ronnytrommer"
       social_blog: "https://blog.no42.org"
-    - name: Tarus Balog
-      image:
-      title: Mouth of OpenNMS
-      info: "Tarus Balog has been involved in managing communications networks professionally since 1988, and unprofessionally since 1978 when he got his first computer a TRS-80 from Radio Shack. Having worked as a network management consultant for many years, he was constantly frustrated in the lack of flexibility involved in commercial solutions such as OpenView and Tivoli, as well as shocked by their high prices. Looking for a better solution, he turned to open source and joined the OpenNMS project in 2001 and became the principal administrator of the project in 2002. Since then he has managed not only to make a living working with free software, but the OpenNMS Group, the services company behind the project, has thrived, and currently has over 150 customers in 25 countries."
-      social_twitter: "sortova"
-      social_blog: "http://www.adventuresinoss.com/"
 ---

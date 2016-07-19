@@ -11,18 +11,17 @@ members:
       title: CIO at The OpenNMS Group
       info: "Ben has been involved with open-source software for over 20 years, and has had his hands in the OpenNMS codebase nearly since its inception. He is currently CIO of The OpenNMS Group but wears many hats, spending the majority of his time in software engineering."
       social_twitter: "RangerRick"
+    - name: David Hustace
+      image:
+      title: CEO at The OpenNMS Group
+      info: "David Hustace began his Information Technology career as a US Army Officer during a transition phase from manually computed Artillery gunnery to a hardened computer system.  Following a formal IT education, he transitioned from the Field Artillery to the Army Signal Corps and began writing software, building networks, and managing secure communication and data processing centers.  He was awarded a Meritorious Service Metal for the development of an application that integrated mainframe computer data with secure telecommunication systems thereby saving the Army millions of dollars in the operational and maintenance costs associated with expensive and antiquated hardware solutions.  In the private sector, David began network management consulting for enterprises and service providers using commercial software solutions such as OpenView and NetCool until co-founding The OpenNMS Group, Inc. in 2004; where he continues to serve as its COO responsible for sales and product management.  He has subsequently retired as Captain, US Army Reserve, and continues to enjoy defining new markets and creating new business opportunities for OpenNMS as well as developing software, playing golf, running marathons, and participating in the ever growing open source software world that is OpenNMS."
+      social_twitter: "dhustace"
     - name: Duy Hai Doan
       image:
       title: Apache Cassandra Evangelist at DataStax
       info: "He spends his time between technical presentations/meetups on Cassandra, coding on open source projects like Achilles or Apache Zeppelin to support the community and helping all companies using Cassandra to make their project successful. Previously he was working as a freelance Java/Cassandra consultant."
       social_twitter: "doanduyhai"
       social_linkedin: "https://fr.linkedin.com/in/duyhai-doan-8482242"
-    - name: Jeff Gehlbach
-      image:
-      title: Director of Applied Innovation at The OpenNMS Group
-      info: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
-      social_twitter: "jeffgdotorg"
-      social_linkedin: "https://www.linkedin.com/in/jgehlbach"
 ---
 
 # Speaker
