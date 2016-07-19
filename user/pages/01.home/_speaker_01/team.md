@@ -13,7 +13,7 @@ members:
       social_twitter: "RangerRick"
     - name: David Hustace
       image:
-      title: CEO at The OpenNMS Group
+      title: COO at The OpenNMS Group
       info: "David Hustace began his Information Technology career as a US Army Officer during a transition phase from manually computed Artillery gunnery to a hardened computer system.  Following a formal IT education, he transitioned from the Field Artillery to the Army Signal Corps and began writing software, building networks, and managing secure communication and data processing centers.  He was awarded a Meritorious Service Metal for the development of an application that integrated mainframe computer data with secure telecommunication systems thereby saving the Army millions of dollars in the operational and maintenance costs associated with expensive and antiquated hardware solutions.  In the private sector, David began network management consulting for enterprises and service providers using commercial software solutions such as OpenView and NetCool until co-founding The OpenNMS Group, Inc. in 2004; where he continues to serve as its COO responsible for sales and product management.  He has subsequently retired as Captain, US Army Reserve, and continues to enjoy defining new markets and creating new business opportunities for OpenNMS as well as developing software, playing golf, running marathons, and participating in the ever growing open source software world that is OpenNMS."
       social_twitter: "dhustace"
     - name: Duy Hai Doan
