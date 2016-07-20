@@ -1,13 +1,13 @@
-title: Grav                                 # Name of the site
+title: OUCE                                 # Name of the site
 
 author:
-  name: John Appleseed                      # Default author name
-  email: 'john@email.com'                   # Default author email
+  name: OUCE Orga                           # Default author name
+  email: 'ouce-orga@lists.opennms.eu'       # Default author email
 
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 
 metadata:
-  description: 'My Grav Site'               # Site description
+  description: 'OpenNMS User Conference Europe' # Site description
 
 summary:
   enabled: true                             # enable or disable summary of page
