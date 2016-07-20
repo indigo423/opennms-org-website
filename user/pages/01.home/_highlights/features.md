@@ -19,3 +19,6 @@ features:
 	  linkurl: "venue#_get-together"
 	  linktext: "Show Get-Together Location"
 ---
+
+The OpenNMS User Conference Europe is a series of conferences focused on all the things around monitoring and network management.
+Our conferences create a time and place for the community to share information, discuss ideas and work together to improve monitoring with the free software OpenNMS.
