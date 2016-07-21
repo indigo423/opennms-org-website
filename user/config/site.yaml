@@ -35,6 +35,10 @@ quicklinks:
   - text: "FAQ"
     url: "base_url:faq"
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
+
+redirects:
+  /ouce2016.html: '/'
+
 blog:
   route: '/blog'                            # Route to blog
 summary:
